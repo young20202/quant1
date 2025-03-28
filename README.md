@@ -1,4 +1,4 @@
-# quant1
+# 퀀트전략
 
 - 퀀트 투자 전략 pyrthon code입니다.
     - Buyandhold 함수
